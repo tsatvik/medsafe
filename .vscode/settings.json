@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "testconnection",
+            "database": "mydb",
+            "username": "root",
+            "password": "pudu",
+            "socketPath": "/tmp/mysql.sock"
+        }
+    ]
+}
