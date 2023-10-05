@@ -6,3 +6,6 @@
 
 # Ignore all .env files
 .env
+
+# Ignore all .env files
+.sql
