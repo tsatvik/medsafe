@@ -10,7 +10,7 @@
             "port": 33060,
             "driver": "MySQL",
             "name": "testconnection",
-            "database": "mydb",
+            "database": "medsafe_db",
             "username": "root",
             "password": "pudu",
             "socketPath": "/tmp/mysql.sock"

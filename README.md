@@ -2,7 +2,14 @@
 
 ## Description
 
-MedSafe is a medical portal designed to securely store a person's entire medical history. The application also features OCR (Optical Character Recognition) capabilities to extract medical information from uploaded documents. With MedSafe, you can have all your medical records and information at your fingertips.
+MedSafe is a comprehensive medical portal designed to securely store an individual's entire medical history, providing a convenient and organized solution for managing medical information. The application features Optical Character Recognition (OCR) capabilities, which enable the extraction of medical information from uploaded documents such as scans, receipts, and prescriptions. This all-in-one medical portal consolidates and organizes medical records, making them easily accessible and manageable for users.
+
+MedSafe can be seen as an application that combines secure storage, data organization, and OCR technology to create a user-friendly platform for managing personal medical information. The application's use cases include:
+
+1. Secure storage of medical records: MedSafe ensures that users' medical histories are stored securely, protecting sensitive information from unauthorized access.
+2. Organization of medical information: The platform organizes medical records, making it easy for users to find and access the information they need.
+3. OCR capabilities: MedSafe's OCR technology allows users to extract medical information from uploaded documents, streamlining the process of adding new records to the system.
+4. Consolidation of medical data: By bringing together various types of medical records, MedSafe creates a comprehensive and easily accessible medical history for each user.
 
 ## Table of Contents
 - [Description](#description)
